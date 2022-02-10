@@ -3,7 +3,10 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(./images/bg-pattern-top.svg);
+    background-color: hsl(185, 75%, 39%);
+    background-image: url(images/bg-pattern-top.svg),url(images/bg-pattern-bottom.svg);
+    background-position:  bottom 40vh right 45vw,top 45vh left 40vw;
+    background-repeat: no-repeat;
     font-family: 'Kumbh Sans', sans-serif;
 }
 .top-card{
