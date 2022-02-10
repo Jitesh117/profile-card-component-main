@@ -32,8 +32,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profilecardcomponentsolution-lfs4R_j1_)
+-  [Live Site URL](https://profile-card-component-main-ten-theta.vercel.app/)
 
 ## My process
 
