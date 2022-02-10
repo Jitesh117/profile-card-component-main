@@ -8,6 +8,7 @@ body{
     background-position:  bottom 40vh right 45vw,top 45vh left 40vw;
     background-repeat: no-repeat;
     font-family: 'Kumbh Sans', sans-serif;
+    height: 100vh;
 }
 .top-card{
     border-radius: 10px 10px 0 0 ;
