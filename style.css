@@ -41,7 +41,7 @@ body{
 .text{
     display: flex;
     flex-direction: column;
-    justify-content: space-;
+     margin-bottom: 20px;
 }
 .victor{
     margin: 0 auto;
@@ -61,10 +61,14 @@ body{
     display: flex;
     justify-content: space-between;
     margin: 0 30px;
+    margin-bottom: 0;
 }
 @media screen and(max-width:375px) {
     .top-card{
         width: 90%;
+    }
+    .card{
+        width: 85%;
     }
     
     
